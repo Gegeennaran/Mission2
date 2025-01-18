@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //Gegeennaran Enkhtuvshin 
 //section 3
+//Mission 2 assignment
+
 namespace Mission2;
 
 internal class Program

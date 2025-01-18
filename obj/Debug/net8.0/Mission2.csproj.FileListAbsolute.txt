@@ -1,0 +1,14 @@
+/Users/gegeenee/RiderProjects/Mission2/bin/Debug/net8.0/Mission2
+/Users/gegeenee/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.deps.json
+/Users/gegeenee/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.runtimeconfig.json
+/Users/gegeenee/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.dll
+/Users/gegeenee/RiderProjects/Mission2/bin/Debug/net8.0/Mission2.pdb
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.AssemblyInfoInputs.cache
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.AssemblyInfo.cs
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.csproj.CoreCompileInputs.cache
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.dll
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/refint/Mission2.dll
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.pdb
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/Mission2.genruntimeconfig.cache
+/Users/gegeenee/RiderProjects/Mission2/obj/Debug/net8.0/ref/Mission2.dll
